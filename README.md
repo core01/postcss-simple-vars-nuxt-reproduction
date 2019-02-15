@@ -13,7 +13,7 @@ $ yarn run dev
 
 ```
 
-Hover must be red, but it is not!
+Title must be red, but it is not!
 
 For detailed explanation look assets/css/tailwind.css
 
